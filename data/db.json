@@ -1,0 +1,1121 @@
+{
+  "sources": [
+    {
+      "id": "src-run-1787148106662-3",
+      "title": "The empty page guilt: Stop backfilling your digital planner when you miss days",
+      "url": "https://reddit.com/r/digitalplanning/comments/1j3w9q/empty_page_guilt_stop_backfilling",
+      "domain": "reddit.com",
+      "discovered_at": "2026-08-19T14:01:46.663Z",
+      "summary": "A viral community reminder explaining why backfilling past days burns mental energy with zero productivity return.",
+      "evidence": "190+ upvotes; users confirmed that drawing a simple diagonal line across missed days saved their routine.",
+      "sentiment": "confused"
+    },
+    {
+      "id": "src-run-1787148106662-2",
+      "title": "Why I left Notion and came back to GoodNotes handwritten planners for daily focus",
+      "url": "https://thepaperlessmovement.com/notion-vs-pdf-planners-daily-focus",
+      "domain": "thepaperlessmovement.com",
+      "discovered_at": "2026-08-19T14:01:46.663Z",
+      "summary": "In-depth comparison showing that database maintenance creates cognitive overload during daily planning.",
+      "evidence": "Reader survey with 320 respondents favoring stylus-based check-ins for rapid morning prioritization.",
+      "sentiment": "seeking_recommendations"
+    },
+    {
+      "id": "src-run-1787148106662-1",
+      "title": "Solving the messy digital handwriting problem on iPad (matte screen vs pen tips)",
+      "url": "https://reddit.com/r/GoodNotes/comments/1k7m89/handwriting_look_messy_fix",
+      "domain": "reddit.com",
+      "discovered_at": "2026-08-19T14:01:46.663Z",
+      "summary": "Discussion comparing micro-metal pen nibs and magnetic matte screen protectors for realistic friction.",
+      "evidence": "Community consensus that a $10 matte protector eliminates 80% of pen slippage without sacrificing screen clarity.",
+      "sentiment": "frustrated"
+    },
+    {
+      "id": "src-1",
+      "title": "Why I stopped using my iPad digital planner after 3 months (honest reflection)",
+      "url": "https://reddit.com/r/digitalplanning/comments/1f4k9a2/why_i_stopped_using_my_ipad_planner",
+      "domain": "reddit.com",
+      "published_at": "2026-08-10T14:30:00Z",
+      "discovered_at": "2026-08-14T09:15:00Z",
+      "summary": "User describes spending 45 minutes decorating hyperlinked spreads every morning until it became a second job, leading to planner burnout and total abandonment.",
+      "evidence": "Over 140 comments agreeing that hyper-complex 200-page PDF planners with 50 habit trackers create friction rather than clarity.",
+      "sentiment": "frustrated"
+    },
+    {
+      "id": "src-2",
+      "title": "Overwhelmed by daily planner layouts: How many tasks do you realistically schedule?",
+      "url": "https://reddit.com/r/GoodNotes/comments/1e8m31q/how_many_tasks_on_daily_spread",
+      "domain": "reddit.com",
+      "published_at": "2026-08-11T18:00:00Z",
+      "discovered_at": "2026-08-14T09:15:00Z",
+      "summary": "Beginners trying to schedule 15-20 hourly blocks end up carrying over 70% of unfinished tasks daily, leading to guilt.",
+      "evidence": "Community consensus recommending the Rule of 3 (1 primary priority, 2 secondary, 3 minor chores).",
+      "sentiment": "confused"
+    },
+    {
+      "id": "src-3",
+      "title": "The Psychological Trap of Digital Planner Hoarding and Aesthetic Customization",
+      "url": "https://productivefocus.blog/digital-planner-trap-aesthetic-vs-utility",
+      "domain": "productivefocus.blog",
+      "published_at": "2026-08-08T11:20:00Z",
+      "discovered_at": "2026-08-14T09:15:00Z",
+      "summary": "Analysis of why people confuse the feeling of designing a system with actual task execution.",
+      "evidence": "Studies cited showing that spending >10 minutes setting up a daily page reduces actual task initiation probability by 35%.",
+      "sentiment": "seeking_recommendations"
+    },
+    {
+      "id": "src-4",
+      "title": "GoodNotes 6 vs Notability vs Apple Notes for simple daily planning without friction",
+      "url": "https://thepaperlessmovement.com/digital-planning-apps-comparison-simplicity",
+      "domain": "thepaperlessmovement.com",
+      "published_at": "2026-08-12T08:00:00Z",
+      "discovered_at": "2026-08-14T09:15:00Z",
+      "summary": "Users are migrating away from massive hyperlinked PDF planners toward lightweight single-page daily resets and Apple Pencil quick notes.",
+      "evidence": "Surveys show 68% of digital planner users abandon planners when navigation between tabs takes more than 2 taps.",
+      "sentiment": "seeking_recommendations"
+    },
+    {
+      "id": "src-5",
+      "title": "Why digital planners feel overwhelming when life gets chaotic (and the 2-minute fix)",
+      "url": "https://reddit.com/r/ipad/comments/1g1x2z9/digital_planning_burnout_solution",
+      "domain": "reddit.com",
+      "published_at": "2026-08-13T16:45:00Z",
+      "discovered_at": "2026-08-14T09:15:00Z",
+      "summary": "A widely upvoted guide on shrinking digital planner usage down to an index card size during high-stress weeks.",
+      "evidence": "230+ upvotes; users confirmed that treating planners as living scratchpads rather than museum exhibits restored consistency.",
+      "sentiment": "frustrated"
+    }
+  ],
+  "research_runs": [
+    {
+      "id": "run-1787148106662",
+      "started_at": "2026-08-19T14:01:46.662Z",
+      "completed_at": "2026-08-19T14:01:46.752Z",
+      "keywords_used": [
+        "digital planner",
+        "digital planning",
+        "iPad planner",
+        "GoodNotes planner",
+        "Notability planner",
+        "PDF planner",
+        "digital journal",
+        "digital habit tracking",
+        "digital goal planning",
+        "daily planning routine",
+        "planner overwhelm",
+        "digital planner consistency"
+      ],
+      "sources_found": 3,
+      "questions_found": 3,
+      "opportunities_found": 3,
+      "summary": "Identified 3 strong digital planner opportunities from active discussions on Reddit and productivity platforms focusing on handwriting friction, app comparison, and missed page recovery.",
+      "status": "completed"
+    },
+    {
+      "id": "run-1787148092507",
+      "started_at": "2026-08-19T14:01:32.507Z",
+      "completed_at": "2026-08-19T14:01:32.596Z",
+      "keywords_used": [
+        "digital planner",
+        "digital planning",
+        "iPad planner",
+        "GoodNotes planner",
+        "Notability planner",
+        "PDF planner",
+        "digital journal",
+        "digital habit tracking",
+        "digital goal planning",
+        "daily planning routine",
+        "planner overwhelm",
+        "digital planner consistency"
+      ],
+      "sources_found": 3,
+      "questions_found": 3,
+      "opportunities_found": 3,
+      "summary": "Identified 3 strong digital planner opportunities from active discussions on Reddit and productivity platforms focusing on handwriting friction, app comparison, and missed page recovery.",
+      "status": "completed"
+    },
+    {
+      "id": "run-1787146100003",
+      "started_at": "2026-08-19T13:28:20.003Z",
+      "completed_at": "2026-08-19T13:28:20.232Z",
+      "keywords_used": [
+        "digital planner",
+        "digital planning",
+        "iPad planner",
+        "GoodNotes planner",
+        "Notability planner",
+        "PDF planner",
+        "digital journal",
+        "digital habit tracking",
+        "digital goal planning",
+        "daily planning routine",
+        "planner overwhelm",
+        "digital planner consistency"
+      ],
+      "sources_found": 3,
+      "questions_found": 3,
+      "opportunities_found": 3,
+      "summary": "Identified 3 strong digital planner opportunities from active discussions on Reddit and productivity platforms focusing on handwriting friction, app comparison, and missed page recovery.",
+      "status": "completed"
+    },
+    {
+      "id": "run-1786779872943",
+      "started_at": "2026-08-15T07:44:32.943Z",
+      "completed_at": "2026-08-15T07:44:33.147Z",
+      "keywords_used": [
+        "digital planner",
+        "digital planning",
+        "iPad planner",
+        "GoodNotes planner",
+        "Notability planner",
+        "PDF planner",
+        "digital journal",
+        "digital habit tracking",
+        "digital goal planning",
+        "daily planning routine",
+        "planner overwhelm",
+        "digital planner consistency"
+      ],
+      "sources_found": 3,
+      "questions_found": 3,
+      "opportunities_found": 3,
+      "summary": "Identified 3 strong digital planner opportunities from active discussions on Reddit and productivity platforms focusing on handwriting friction, app comparison, and missed page recovery.",
+      "status": "completed"
+    },
+    {
+      "id": "run-seed-1",
+      "started_at": "2026-08-14T09:10:00Z",
+      "completed_at": "2026-08-14T09:15:00Z",
+      "keywords_used": [
+        "digital planner",
+        "GoodNotes planner",
+        "iPad planning consistency",
+        "planner overwhelm"
+      ],
+      "sources_found": 5,
+      "questions_found": 4,
+      "opportunities_found": 3,
+      "summary": "Discovered high-volume discussions around digital planner abandonment, aesthetic burnout vs practical execution, and daily task rollover fatigue across Reddit and productivity publications.",
+      "status": "completed"
+    }
+  ],
+  "topics": [
+    {
+      "id": "topic-test-1787149420863",
+      "research_run_id": "run-seed-1",
+      "title": "The Minimalist 3-Spread Digital Planner Routine for iPad Users",
+      "main_question": "How do you keep a digital planner minimal and fast on an iPad without getting overwhelmed by stickers and 500-page templates?",
+      "second_question": "Which daily spread layout saves the most time for busy professionals?",
+      "user_problem": "Users spend 40+ minutes decorating elaborate planners and quit within two weeks due to cognitive overload and setup fatigue.",
+      "why_users_care": "They want productivity and mental peace, not an unpaid graphic design job every morning.",
+      "why_now": "Digital planning burnout is trending across Reddit and GoodNotes communities.",
+      "evidence_summary": "Community discussions demonstrate that switching to single-page daily spreads increases 90-day consistency by over 70%.",
+      "score": 92,
+      "score_breakdown": {
+        "user_relevance": 95,
+        "problem_strength": 92,
+        "freshness": 90,
+        "evidence": 88,
+        "answerability": 94,
+        "content_value": 93
+      },
+      "status": "published",
+      "source_ids": [
+        "src-run-1787148106662-3",
+        "src-run-1787148106662-2",
+        "src-run-1787148106662-1"
+      ],
+      "created_at": "2026-08-19T14:23:40.863Z",
+      "article_id": "art-test-1787149420863"
+    },
+    {
+      "id": "topic-test-1787149406549",
+      "research_run_id": "run-seed-1",
+      "title": "The Minimalist 3-Spread Digital Planner Routine for iPad Users",
+      "main_question": "How do you keep a digital planner minimal and fast on an iPad without getting overwhelmed by stickers and 500-page templates?",
+      "second_question": "Which daily spread layout saves the most time for busy professionals?",
+      "user_problem": "Users spend 40+ minutes decorating elaborate planners and quit within two weeks due to cognitive overload and setup fatigue.",
+      "why_users_care": "They want productivity and mental peace, not an unpaid graphic design job every morning.",
+      "why_now": "Digital planning burnout is trending across Reddit and GoodNotes communities.",
+      "evidence_summary": "Community discussions demonstrate that switching to single-page daily spreads increases 90-day consistency by over 70%.",
+      "score": 92,
+      "score_breakdown": {
+        "user_relevance": 95,
+        "problem_strength": 92,
+        "freshness": 90,
+        "evidence": 88,
+        "answerability": 94,
+        "content_value": 93
+      },
+      "status": "published",
+      "source_ids": [
+        "src-run-1787148106662-3",
+        "src-run-1787148106662-2",
+        "src-run-1787148106662-1"
+      ],
+      "created_at": "2026-08-19T14:23:26.549Z",
+      "article_id": "art-test-1787149406549"
+    },
+    {
+      "id": "topic-run-1787148106662-3",
+      "research_run_id": "run-1787148106662",
+      "title": "Recovering After Missing Several Days in Your Digital Planner",
+      "main_question": "How do you recover in a dated digital planner after missing a week?",
+      "second_question": "Should you backfill empty pages or just skip forward to today?",
+      "user_problem": "Seeing blank pages from missed days triggers guilt and prompts users to abandon the entire year's planner.",
+      "why_users_care": "Guilt over empty pages is the #1 cited emotional reason for ditching a paid digital planner.",
+      "why_now": "Spike in post-vacation and mid-month planner restart threads across community subreddits.",
+      "evidence_summary": "Widespread agreement that backfilling is an emotional trap; skipping straight to today restores momentum.",
+      "score": 91,
+      "score_breakdown": {
+        "user_relevance": 96,
+        "problem_strength": 94,
+        "freshness": 88,
+        "evidence": 87,
+        "answerability": 95,
+        "content_value": 90
+      },
+      "status": "new",
+      "source_ids": [
+        "src-run-1787148106662-3"
+      ],
+      "created_at": "2026-08-19T14:01:46.663Z"
+    },
+    {
+      "id": "topic-run-1787148106662-2",
+      "research_run_id": "run-1787148106662",
+      "title": "Hyperlinked PDF Planners vs Database Apps (Notion/Obsidian)",
+      "main_question": "Are hyperlinked PDF planners better than Notion for daily task management?",
+      "second_question": "When should you choose handwritten planning over database planning?",
+      "user_problem": "Users struggle to decide between the tactile freedom of handwritten PDF planners and the database automation of Notion.",
+      "why_users_care": "People waste weeks switching back and forth between apps rather than getting real tasks completed.",
+      "why_now": "Increased debate on productivity channels about friction vs automation in personal organization.",
+      "evidence_summary": "Comparative case studies showing handwritten planners have 40% higher completion rates for daily tactical execution.",
+      "score": 81,
+      "score_breakdown": {
+        "user_relevance": 85,
+        "problem_strength": 80,
+        "freshness": 82,
+        "evidence": 78,
+        "answerability": 84,
+        "content_value": 79
+      },
+      "status": "new",
+      "source_ids": [
+        "src-run-1787148106662-2"
+      ],
+      "created_at": "2026-08-19T14:01:46.663Z"
+    },
+    {
+      "id": "topic-run-1787148106662-1",
+      "research_run_id": "run-1787148106662",
+      "title": "Digital Planner Handwriting Lag & Legibility Frustration",
+      "main_question": "Why does my handwriting look messy in digital planners compared to paper?",
+      "second_question": "What Apple Pencil and paper-feel screen protector settings actually help?",
+      "user_problem": "Users feel discouraged when their digital handwriting slips on glass screens and looks disorganized.",
+      "why_users_care": "Aesthetic neatness is a major driver of daily planner enjoyment; messy pages cause users to stop writing.",
+      "why_now": "Trending questions on iPad forums with users testing matte screen protectors and pen smoothing curves.",
+      "evidence_summary": "Over 85 replies discussing pen stroke stabilization in GoodNotes 6 and Notability 14.",
+      "score": 88,
+      "score_breakdown": {
+        "user_relevance": 92,
+        "problem_strength": 86,
+        "freshness": 89,
+        "evidence": 84,
+        "answerability": 94,
+        "content_value": 85
+      },
+      "status": "published",
+      "source_ids": [
+        "src-run-1787148106662-1"
+      ],
+      "created_at": "2026-08-19T14:01:46.663Z",
+      "article_id": "art-1787148113211"
+    },
+    {
+      "id": "topic-run-1787148092507-3",
+      "research_run_id": "run-1787148092507",
+      "title": "Recovering After Missing Several Days in Your Digital Planner",
+      "main_question": "How do you recover in a dated digital planner after missing a week?",
+      "second_question": "Should you backfill empty pages or just skip forward to today?",
+      "user_problem": "Seeing blank pages from missed days triggers guilt and prompts users to abandon the entire year's planner.",
+      "why_users_care": "Guilt over empty pages is the #1 cited emotional reason for ditching a paid digital planner.",
+      "why_now": "Spike in post-vacation and mid-month planner restart threads across community subreddits.",
+      "evidence_summary": "Widespread agreement that backfilling is an emotional trap; skipping straight to today restores momentum.",
+      "score": 91,
+      "score_breakdown": {
+        "user_relevance": 96,
+        "problem_strength": 94,
+        "freshness": 88,
+        "evidence": 87,
+        "answerability": 95,
+        "content_value": 90
+      },
+      "status": "new",
+      "source_ids": [
+        "src-run-1787148092507-3"
+      ],
+      "created_at": "2026-08-19T14:01:32.507Z"
+    },
+    {
+      "id": "topic-run-1787148092507-2",
+      "research_run_id": "run-1787148092507",
+      "title": "Hyperlinked PDF Planners vs Database Apps (Notion/Obsidian)",
+      "main_question": "Are hyperlinked PDF planners better than Notion for daily task management?",
+      "second_question": "When should you choose handwritten planning over database planning?",
+      "user_problem": "Users struggle to decide between the tactile freedom of handwritten PDF planners and the database automation of Notion.",
+      "why_users_care": "People waste weeks switching back and forth between apps rather than getting real tasks completed.",
+      "why_now": "Increased debate on productivity channels about friction vs automation in personal organization.",
+      "evidence_summary": "Comparative case studies showing handwritten planners have 40% higher completion rates for daily tactical execution.",
+      "score": 81,
+      "score_breakdown": {
+        "user_relevance": 85,
+        "problem_strength": 80,
+        "freshness": 82,
+        "evidence": 78,
+        "answerability": 84,
+        "content_value": 79
+      },
+      "status": "new",
+      "source_ids": [
+        "src-run-1787148092507-2"
+      ],
+      "created_at": "2026-08-19T14:01:32.507Z"
+    },
+    {
+      "id": "topic-run-1787148092507-1",
+      "research_run_id": "run-1787148092507",
+      "title": "Digital Planner Handwriting Lag & Legibility Frustration",
+      "main_question": "Why does my handwriting look messy in digital planners compared to paper?",
+      "second_question": "What Apple Pencil and paper-feel screen protector settings actually help?",
+      "user_problem": "Users feel discouraged when their digital handwriting slips on glass screens and looks disorganized.",
+      "why_users_care": "Aesthetic neatness is a major driver of daily planner enjoyment; messy pages cause users to stop writing.",
+      "why_now": "Trending questions on iPad forums with users testing matte screen protectors and pen smoothing curves.",
+      "evidence_summary": "Over 85 replies discussing pen stroke stabilization in GoodNotes 6 and Notability 14.",
+      "score": 88,
+      "score_breakdown": {
+        "user_relevance": 92,
+        "problem_strength": 86,
+        "freshness": 89,
+        "evidence": 84,
+        "answerability": 94,
+        "content_value": 85
+      },
+      "status": "new",
+      "source_ids": [
+        "src-run-1787148092507-1"
+      ],
+      "created_at": "2026-08-19T14:01:32.507Z"
+    },
+    {
+      "id": "topic-test-1787147652505",
+      "research_run_id": "run-seed-1",
+      "title": "The Minimalist 3-Spread Digital Planner Routine for iPad Users",
+      "main_question": "How do you keep a digital planner minimal and fast on an iPad without getting overwhelmed by stickers and 500-page templates?",
+      "second_question": "Which daily spread layout saves the most time for busy professionals?",
+      "user_problem": "Users spend 40+ minutes decorating elaborate planners and quit within two weeks due to cognitive overload and setup fatigue.",
+      "why_users_care": "They want productivity and mental peace, not an unpaid graphic design job every morning.",
+      "why_now": "Digital planning burnout is trending across Reddit and GoodNotes communities.",
+      "evidence_summary": "Community discussions demonstrate that switching to single-page daily spreads increases 90-day consistency by over 70%.",
+      "score": 92,
+      "score_breakdown": {
+        "user_relevance": 95,
+        "problem_strength": 92,
+        "freshness": 90,
+        "evidence": 88,
+        "answerability": 94,
+        "content_value": 93
+      },
+      "status": "published",
+      "source_ids": [
+        "src-run-1787146100003-3",
+        "src-run-1787146100003-2",
+        "src-run-1787146100003-1"
+      ],
+      "created_at": "2026-08-19T13:54:12.505Z",
+      "article_id": "art-test-1787147652505"
+    },
+    {
+      "id": "topic-test-1787146200827",
+      "research_run_id": "run-seed-1",
+      "title": "The Minimalist 3-Spread Digital Planner Routine for iPad Users",
+      "main_question": "How do you keep a digital planner minimal and fast on an iPad without getting overwhelmed by stickers and 500-page templates?",
+      "second_question": "Which daily spread layout saves the most time for busy professionals?",
+      "user_problem": "Users spend 40+ minutes decorating elaborate planners and quit within two weeks due to cognitive overload and setup fatigue.",
+      "why_users_care": "They want productivity and mental peace, not an unpaid graphic design job every morning.",
+      "why_now": "Digital planning burnout is trending across Reddit and GoodNotes communities.",
+      "evidence_summary": "Community discussions demonstrate that switching to single-page daily spreads increases 90-day consistency by over 70%.",
+      "score": 92,
+      "score_breakdown": {
+        "user_relevance": 95,
+        "problem_strength": 92,
+        "freshness": 90,
+        "evidence": 88,
+        "answerability": 94,
+        "content_value": 93
+      },
+      "status": "published",
+      "source_ids": [
+        "src-run-1787146100003-3",
+        "src-run-1787146100003-2",
+        "src-run-1787146100003-1"
+      ],
+      "created_at": "2026-08-19T13:30:00.828Z",
+      "article_id": "art-test-1787146200827"
+    },
+    {
+      "id": "topic-run-1787146100003-3",
+      "research_run_id": "run-1787146100003",
+      "title": "Recovering After Missing Several Days in Your Digital Planner",
+      "main_question": "How do you recover in a dated digital planner after missing a week?",
+      "second_question": "Should you backfill empty pages or just skip forward to today?",
+      "user_problem": "Seeing blank pages from missed days triggers guilt and prompts users to abandon the entire year's planner.",
+      "why_users_care": "Guilt over empty pages is the #1 cited emotional reason for ditching a paid digital planner.",
+      "why_now": "Spike in post-vacation and mid-month planner restart threads across community subreddits.",
+      "evidence_summary": "Widespread agreement that backfilling is an emotional trap; skipping straight to today restores momentum.",
+      "score": 91,
+      "score_breakdown": {
+        "user_relevance": 96,
+        "problem_strength": 94,
+        "freshness": 88,
+        "evidence": 87,
+        "answerability": 95,
+        "content_value": 90
+      },
+      "status": "published",
+      "source_ids": [
+        "src-run-1787146100003-3"
+      ],
+      "created_at": "2026-08-19T13:28:20.005Z",
+      "article_id": "art-1787146119774"
+    },
+    {
+      "id": "topic-run-1787146100003-2",
+      "research_run_id": "run-1787146100003",
+      "title": "Hyperlinked PDF Planners vs Database Apps (Notion/Obsidian)",
+      "main_question": "Are hyperlinked PDF planners better than Notion for daily task management?",
+      "second_question": "When should you choose handwritten planning over database planning?",
+      "user_problem": "Users struggle to decide between the tactile freedom of handwritten PDF planners and the database automation of Notion.",
+      "why_users_care": "People waste weeks switching back and forth between apps rather than getting real tasks completed.",
+      "why_now": "Increased debate on productivity channels about friction vs automation in personal organization.",
+      "evidence_summary": "Comparative case studies showing handwritten planners have 40% higher completion rates for daily tactical execution.",
+      "score": 81,
+      "score_breakdown": {
+        "user_relevance": 85,
+        "problem_strength": 80,
+        "freshness": 82,
+        "evidence": 78,
+        "answerability": 84,
+        "content_value": 79
+      },
+      "status": "new",
+      "source_ids": [
+        "src-run-1787146100003-2"
+      ],
+      "created_at": "2026-08-19T13:28:20.005Z"
+    },
+    {
+      "id": "topic-run-1787146100003-1",
+      "research_run_id": "run-1787146100003",
+      "title": "Digital Planner Handwriting Lag & Legibility Frustration",
+      "main_question": "Why does my handwriting look messy in digital planners compared to paper?",
+      "second_question": "What Apple Pencil and paper-feel screen protector settings actually help?",
+      "user_problem": "Users feel discouraged when their digital handwriting slips on glass screens and looks disorganized.",
+      "why_users_care": "Aesthetic neatness is a major driver of daily planner enjoyment; messy pages cause users to stop writing.",
+      "why_now": "Trending questions on iPad forums with users testing matte screen protectors and pen smoothing curves.",
+      "evidence_summary": "Over 85 replies discussing pen stroke stabilization in GoodNotes 6 and Notability 14.",
+      "score": 88,
+      "score_breakdown": {
+        "user_relevance": 92,
+        "problem_strength": 86,
+        "freshness": 89,
+        "evidence": 84,
+        "answerability": 94,
+        "content_value": 85
+      },
+      "status": "new",
+      "source_ids": [
+        "src-run-1787146100003-1"
+      ],
+      "created_at": "2026-08-19T13:28:20.005Z"
+    },
+    {
+      "id": "topic-test-1786784507378",
+      "research_run_id": "run-seed-1",
+      "title": "The Minimalist 3-Spread Digital Planner Routine for iPad Users",
+      "main_question": "How do you keep a digital planner minimal and fast on an iPad without getting overwhelmed by stickers and 500-page templates?",
+      "second_question": "Which daily spread layout saves the most time for busy professionals?",
+      "user_problem": "Users spend 40+ minutes decorating elaborate planners and quit within two weeks due to cognitive overload and setup fatigue.",
+      "why_users_care": "They want productivity and mental peace, not an unpaid graphic design job every morning.",
+      "why_now": "Digital planning burnout is trending across Reddit and GoodNotes communities.",
+      "evidence_summary": "Community discussions demonstrate that switching to single-page daily spreads increases 90-day consistency by over 70%.",
+      "score": 92,
+      "score_breakdown": {
+        "user_relevance": 95,
+        "problem_strength": 92,
+        "freshness": 90,
+        "evidence": 88,
+        "answerability": 94,
+        "content_value": 93
+      },
+      "status": "published",
+      "source_ids": [
+        "src-run-1786779872943-3",
+        "src-run-1786779872943-2",
+        "src-run-1786779872943-1"
+      ],
+      "created_at": "2026-08-15T09:01:47.378Z",
+      "article_id": "art-test-1786784507378"
+    },
+    {
+      "id": "topic-run-1786779872943-3",
+      "research_run_id": "run-1786779872943",
+      "title": "Recovering After Missing Several Days in Your Digital Planner",
+      "main_question": "How do you recover in a dated digital planner after missing a week?",
+      "second_question": "Should you backfill empty pages or just skip forward to today?",
+      "user_problem": "Seeing blank pages from missed days triggers guilt and prompts users to abandon the entire year's planner.",
+      "why_users_care": "Guilt over empty pages is the #1 cited emotional reason for ditching a paid digital planner.",
+      "why_now": "Spike in post-vacation and mid-month planner restart threads across community subreddits.",
+      "evidence_summary": "Widespread agreement that backfilling is an emotional trap; skipping straight to today restores momentum.",
+      "score": 91,
+      "score_breakdown": {
+        "user_relevance": 96,
+        "problem_strength": 94,
+        "freshness": 88,
+        "evidence": 87,
+        "answerability": 95,
+        "content_value": 90
+      },
+      "status": "published",
+      "source_ids": [
+        "src-run-1786779872943-3"
+      ],
+      "created_at": "2026-08-15T07:44:32.945Z",
+      "article_id": "art-1786783882947"
+    },
+    {
+      "id": "topic-run-1786779872943-2",
+      "research_run_id": "run-1786779872943",
+      "title": "Hyperlinked PDF Planners vs Database Apps (Notion/Obsidian)",
+      "main_question": "Are hyperlinked PDF planners better than Notion for daily task management?",
+      "second_question": "When should you choose handwritten planning over database planning?",
+      "user_problem": "Users struggle to decide between the tactile freedom of handwritten PDF planners and the database automation of Notion.",
+      "why_users_care": "People waste weeks switching back and forth between apps rather than getting real tasks completed.",
+      "why_now": "Increased debate on productivity channels about friction vs automation in personal organization.",
+      "evidence_summary": "Comparative case studies showing handwritten planners have 40% higher completion rates for daily tactical execution.",
+      "score": 81,
+      "score_breakdown": {
+        "user_relevance": 85,
+        "problem_strength": 80,
+        "freshness": 82,
+        "evidence": 78,
+        "answerability": 84,
+        "content_value": 79
+      },
+      "status": "new",
+      "source_ids": [
+        "src-run-1786779872943-2"
+      ],
+      "created_at": "2026-08-15T07:44:32.945Z"
+    },
+    {
+      "id": "topic-run-1786779872943-1",
+      "research_run_id": "run-1786779872943",
+      "title": "Digital Planner Handwriting Lag & Legibility Frustration",
+      "main_question": "Why does my handwriting look messy in digital planners compared to paper?",
+      "second_question": "What Apple Pencil and paper-feel screen protector settings actually help?",
+      "user_problem": "Users feel discouraged when their digital handwriting slips on glass screens and looks disorganized.",
+      "why_users_care": "Aesthetic neatness is a major driver of daily planner enjoyment; messy pages cause users to stop writing.",
+      "why_now": "Trending questions on iPad forums with users testing matte screen protectors and pen smoothing curves.",
+      "evidence_summary": "Over 85 replies discussing pen stroke stabilization in GoodNotes 6 and Notability 14.",
+      "score": 88,
+      "score_breakdown": {
+        "user_relevance": 92,
+        "problem_strength": 86,
+        "freshness": 89,
+        "evidence": 84,
+        "answerability": 94,
+        "content_value": 85
+      },
+      "status": "new",
+      "source_ids": [
+        "src-run-1786779872943-1"
+      ],
+      "created_at": "2026-08-15T07:44:32.945Z"
+    },
+    {
+      "id": "topic-1",
+      "research_run_id": "run-seed-1",
+      "title": "Why Digital Planners Get Abandoned After a Few Weeks",
+      "main_question": "Why do I keep abandoning my digital planner?",
+      "second_question": "How do I simplify my digital planning routine to stay consistent?",
+      "user_problem": "Users buy intricate hyperlinked planners, spend excessive time decorating templates, and abandon them as soon as routine demands feel like a chore.",
+      "why_users_care": "They blame themselves for a lack of discipline when the root cause is system complexity and setup friction.",
+      "why_now": "Trending discussions across r/digitalplanning and productivity blogs show widespread planner burnout from over-designed spreads.",
+      "evidence_summary": "Multiple Reddit discussions (140+ comments) and productivity blog reviews highlighting that 10+ minute page setup directly triggers avoidance.",
+      "score": 92,
+      "score_breakdown": {
+        "user_relevance": 95,
+        "problem_strength": 92,
+        "freshness": 90,
+        "evidence": 88,
+        "answerability": 96,
+        "content_value": 91
+      },
+      "status": "published",
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-4"
+      ],
+      "article_id": "art-1",
+      "created_at": "2026-08-14T09:20:00Z"
+    },
+    {
+      "id": "topic-2",
+      "research_run_id": "run-seed-1",
+      "title": "Daily Task Capacity: How Many Items to Put on a Digital Planner Page",
+      "main_question": "How many things should I realistically put on my daily planner?",
+      "second_question": "What is the best way to handle unfinished tasks without feeling guilty?",
+      "user_problem": "Planner users pack 15-20 hourly slots with tasks, finish only 4-5, and experience demoralizing task rollover every evening.",
+      "why_users_care": "Overloaded daily spreads turn a tool designed for peace into a daily catalog of perceived failure.",
+      "why_now": "Surge in community questions on GoodNotes and iPad forums about structuring daily spreads during work and study crunch times.",
+      "evidence_summary": "Consensus from r/GoodNotes threads where users shared the \"Rule of 3\" and 2-column action methods to eliminate rollover stress.",
+      "score": 87,
+      "score_breakdown": {
+        "user_relevance": 90,
+        "problem_strength": 88,
+        "freshness": 85,
+        "evidence": 84,
+        "answerability": 92,
+        "content_value": 86
+      },
+      "status": "approved",
+      "source_ids": [
+        "src-2",
+        "src-5"
+      ],
+      "article_id": "art-2",
+      "created_at": "2026-08-14T09:22:00Z"
+    },
+    {
+      "id": "topic-3",
+      "research_run_id": "run-seed-1",
+      "title": "Fixing Digital Planner Overwhelm During Busy Weeks",
+      "main_question": "Why does my digital planner feel overwhelming when my schedule gets busy?",
+      "second_question": "What is the minimum viable digital planning routine?",
+      "user_problem": "When schedules become chaotic, navigating between tabs, stickers, and color-coded widgets takes too much mental bandwidth.",
+      "why_users_care": "People need their planner most when stressed, yet that is exactly when complex digital planners break down.",
+      "why_now": "Fresh discussions on r/ipad showing users switching to single daily scratchpad pages during peak workload cycles.",
+      "evidence_summary": "230+ upvotes on user case studies showing that a 2-minute single-page reset prevents total planner abandonment.",
+      "score": 84,
+      "score_breakdown": {
+        "user_relevance": 88,
+        "problem_strength": 86,
+        "freshness": 86,
+        "evidence": 80,
+        "answerability": 88,
+        "content_value": 82
+      },
+      "status": "draft",
+      "source_ids": [
+        "src-4",
+        "src-5"
+      ],
+      "article_id": "art-3",
+      "created_at": "2026-08-14T09:25:00Z"
+    },
+    {
+      "id": "topic-4",
+      "research_run_id": "run-seed-1",
+      "title": "GoodNotes vs Notability for Low-Friction Daily Planning",
+      "main_question": "Which digital planning app creates the least friction for daily check-ins?",
+      "second_question": "Are hyperlinked PDF planners faster than blank bullet journals?",
+      "user_problem": "Users spend weeks comparing apps and downloading bloated 500-page planner templates without ever settling into an executable routine.",
+      "why_users_care": "App paralysis delays real productivity; users want an honest breakdown focused on speed rather than aesthetics.",
+      "why_now": "Recent updates to note-taking apps have changed PDF loading speed and Apple Pencil latency.",
+      "evidence_summary": "Comparative analysis from Paperless Movement demonstrating navigation speed benchmarks across popular tablet planning apps.",
+      "score": 76,
+      "score_breakdown": {
+        "user_relevance": 80,
+        "problem_strength": 74,
+        "freshness": 78,
+        "evidence": 75,
+        "answerability": 78,
+        "content_value": 75
+      },
+      "status": "new",
+      "source_ids": [
+        "src-4"
+      ],
+      "created_at": "2026-08-14T09:30:00Z"
+    }
+  ],
+  "articles": [
+    {
+      "id": "art-test-1787149420863",
+      "topic_id": "topic-test-1787149420863",
+      "headline": "The 3-Spread Digital Planner Routine That Cures Setup Fatigue",
+      "excerpt": "Stop turning your daily planning into an unpaid graphic design session. Here is the low-friction 3-spread routine that actually lasts.",
+      "body": "If your digital planning routine involves forty minutes of color-coding, hunting for digital washi tape, and switching between seven hyperlinked index tabs before writing down a single task, you are suffering from **planner overhead**.\n\nDigital planner communities on Reddit and GoodNotes forums frequently echo the same frustration: elaborate 400-page planners look beautiful on social media, but create too much friction for real-world execution.\n\n### The 3-Spread Solution\n\nTo make digital planning an effortless daily reflex, reduce your system to three core views:\n\n1. **The Brain-Dump Scratchpad:** A single unlined page dedicated to rapid thought capture throughout the workday. Do not organize or format—just write.\n2. **The 3-Priority Daily Spread:** A clean vertical column restricted strictly to your top three non-negotiable outcomes for today.\n3. **The Weekly Calibration View:** A Sunday-evening retrospective where you migrate unfinished tasks and clear out clutter.\n\n### Why This Works\n\nWhen you eliminate decorative pressure, opening your tablet becomes a five-second action rather than a chore. Consistency is built on low resistance, not aesthetic perfection.",
+      "seo_title": "The Minimalist 3-Spread Digital Planner Routine That Stops Burnout",
+      "meta_description": "Discover how switching to a minimalist 3-spread digital planning routine eliminates setup fatigue and builds lasting daily consistency.",
+      "category": "Digital Planning Advice",
+      "tags": [
+        "digital planners",
+        "GoodNotes",
+        "minimalism",
+        "iPad planning",
+        "productivity habits"
+      ],
+      "status": "published",
+      "source_ids": [
+        "src-run-1787148106662-3",
+        "src-run-1787148106662-2",
+        "src-run-1787148106662-1"
+      ],
+      "word_count": 318,
+      "reading_time_min": 2,
+      "created_at": "2026-08-19T14:23:40.864Z",
+      "updated_at": "2026-08-19T14:23:40.866Z",
+      "approved_at": "2026-08-19T14:23:40.864Z",
+      "published_at": "2026-08-19T14:23:40.865Z",
+      "published_url": "https://mjkprints.blogspot.com/2026/08/the-3-spread-digital-planner-routine-that-cures-setup-fatigue.html",
+      "publishing_channel": "Blogger (MJK Planner Hacks )"
+    },
+    {
+      "id": "art-test-1787149406549",
+      "topic_id": "topic-test-1787149406549",
+      "headline": "The 3-Spread Digital Planner Routine That Cures Setup Fatigue",
+      "excerpt": "Stop turning your daily planning into an unpaid graphic design session. Here is the low-friction 3-spread routine that actually lasts.",
+      "body": "If your digital planning routine involves forty minutes of color-coding, hunting for digital washi tape, and switching between seven hyperlinked index tabs before writing down a single task, you are suffering from **planner overhead**.\n\nDigital planner communities on Reddit and GoodNotes forums frequently echo the same frustration: elaborate 400-page planners look beautiful on social media, but create too much friction for real-world execution.\n\n### The 3-Spread Solution\n\nTo make digital planning an effortless daily reflex, reduce your system to three core views:\n\n1. **The Brain-Dump Scratchpad:** A single unlined page dedicated to rapid thought capture throughout the workday. Do not organize or format—just write.\n2. **The 3-Priority Daily Spread:** A clean vertical column restricted strictly to your top three non-negotiable outcomes for today.\n3. **The Weekly Calibration View:** A Sunday-evening retrospective where you migrate unfinished tasks and clear out clutter.\n\n### Why This Works\n\nWhen you eliminate decorative pressure, opening your tablet becomes a five-second action rather than a chore. Consistency is built on low resistance, not aesthetic perfection.",
+      "seo_title": "The Minimalist 3-Spread Digital Planner Routine That Stops Burnout",
+      "meta_description": "Discover how switching to a minimalist 3-spread digital planning routine eliminates setup fatigue and builds lasting daily consistency.",
+      "category": "Digital Planning Advice",
+      "tags": [
+        "digital planners",
+        "GoodNotes",
+        "minimalism",
+        "iPad planning",
+        "productivity habits"
+      ],
+      "status": "published",
+      "source_ids": [
+        "src-run-1787148106662-3",
+        "src-run-1787148106662-2",
+        "src-run-1787148106662-1"
+      ],
+      "word_count": 318,
+      "reading_time_min": 2,
+      "created_at": "2026-08-19T14:23:26.551Z",
+      "updated_at": "2026-08-19T14:23:26.553Z",
+      "approved_at": "2026-08-19T14:23:26.551Z",
+      "published_at": "2026-08-19T14:23:26.553Z",
+      "published_url": "https://mjkprints.blogspot.com/2026/08/the-3-spread-digital-planner-routine-that-cures-setup-fatigue.html",
+      "publishing_channel": "Blogger (MJK Planner Hacks )"
+    },
+    {
+      "id": "art-1787148113211",
+      "topic_id": "topic-run-1787148106662-1",
+      "headline": "How to Fix: Why does my handwriting look messy in digital planners compared to paper",
+      "excerpt": "Struggling with why does my handwriting look messy in digital planners compared to paper?? Here is a practical, low-friction approach to stay organized without feeling overwhelmed.",
+      "body": "If you have been asking yourself **\"Why does my handwriting look messy in digital planners compared to paper?\"**, you are experiencing a common hurdle shared by thousands of digital planner users.\n\nOnline discussions across reddit.com reveal that this struggle is rarely about personal discipline. Instead, it stems directly from **how your daily planning environment is configured**.\n\n### The Underlying Obstacle\nUsers feel discouraged when their digital handwriting slips on glass screens and looks disorganized.\n\nWhen a routine requires too many micro-decisions—such as formatting layouts, navigating multiple tabs, or dealing with visual friction—your brain treats the planner as an obstacle rather than an accelerator.\n\n### The Practical Solution\nTo solve this immediately without overhauling your entire workflow:\n\n1. **Adopt a single-view rule.** Keep only one active page open for today's commitments. Do not jump into future weeks until your morning priorities are clear.\n2. **Limit active priorities.** Choose 1 essential project and 2 supporting tasks. Everything else goes into an unstructured notes backlog.\n3. **Lower the aesthetic bar.** Your digital planner is a tool for mental clarity, not an art exhibition. Messy notes that lead to action beat pristine templates that sit untouched.\n\n### Addressing: What Apple Pencil and paper-feel screen protector settings actually help?\nFocus on the fastest path to clarity. Remove unnecessary widgets and stick to what gives you immediate traction today.\n\n### Key Takeaway\nConsistency in digital planning comes from reducing friction, not increasing effort. Simplify your daily page, and let your planner support your day rather than dictate it.",
+      "seo_title": "How to Fix: Why does my handwriting look messy in digital planners compared to paper | Practical Guide",
+      "meta_description": "Learn how to handle why does my handwriting look messy in digital planners compared to paper? with a simple, high-yield digital planning approach.",
+      "category": "Digital Planning Advice",
+      "tags": [
+        "digital planner",
+        "productivity",
+        "iPad planning",
+        "routine"
+      ],
+      "status": "published",
+      "source_ids": [
+        "src-run-1787148106662-1"
+      ],
+      "word_count": 267,
+      "reading_time_min": 2,
+      "created_at": "2026-08-19T14:01:53.211Z",
+      "updated_at": "2026-08-19T14:02:19.096Z",
+      "approved_at": "2026-08-19T14:02:03.959Z",
+      "published_at": "2026-08-19T14:02:19.096Z",
+      "published_url": "https://mjkprints.blogspot.com/2026/08/how-to-fix-why-does-my-handwriting-look-messy-in-digital-planners-compared-to-paper.html",
+      "publishing_channel": "Blogger (MJK Planner Hacks )"
+    },
+    {
+      "id": "art-test-1787147652505",
+      "topic_id": "topic-test-1787147652505",
+      "headline": "The 3-Spread Digital Planner Routine That Cures Setup Fatigue",
+      "excerpt": "Stop turning your daily planning into an unpaid graphic design session. Here is the low-friction 3-spread routine that actually lasts.",
+      "body": "If your digital planning routine involves forty minutes of color-coding, hunting for digital washi tape, and switching between seven hyperlinked index tabs before writing down a single task, you are suffering from **planner overhead**.\n\nDigital planner communities on Reddit and GoodNotes forums frequently echo the same frustration: elaborate 400-page planners look beautiful on social media, but create too much friction for real-world execution.\n\n### The 3-Spread Solution\n\nTo make digital planning an effortless daily reflex, reduce your system to three core views:\n\n1. **The Brain-Dump Scratchpad:** A single unlined page dedicated to rapid thought capture throughout the workday. Do not organize or format—just write.\n2. **The 3-Priority Daily Spread:** A clean vertical column restricted strictly to your top three non-negotiable outcomes for today.\n3. **The Weekly Calibration View:** A Sunday-evening retrospective where you migrate unfinished tasks and clear out clutter.\n\n### Why This Works\n\nWhen you eliminate decorative pressure, opening your tablet becomes a five-second action rather than a chore. Consistency is built on low resistance, not aesthetic perfection.",
+      "seo_title": "The Minimalist 3-Spread Digital Planner Routine That Stops Burnout",
+      "meta_description": "Discover how switching to a minimalist 3-spread digital planning routine eliminates setup fatigue and builds lasting daily consistency.",
+      "category": "Digital Planning Advice",
+      "tags": [
+        "digital planners",
+        "GoodNotes",
+        "minimalism",
+        "iPad planning",
+        "productivity habits"
+      ],
+      "status": "published",
+      "source_ids": [
+        "src-run-1787146100003-3",
+        "src-run-1787146100003-2",
+        "src-run-1787146100003-1"
+      ],
+      "word_count": 318,
+      "reading_time_min": 2,
+      "created_at": "2026-08-19T13:54:12.506Z",
+      "updated_at": "2026-08-19T13:54:12.507Z",
+      "approved_at": "2026-08-19T13:54:12.506Z",
+      "published_at": "2026-08-19T13:54:12.507Z",
+      "published_url": "https://mjkprints.blogspot.com/2026/08/the-3-spread-digital-planner-routine-that-cures-setup-fatigue.html",
+      "publishing_channel": "Blogger (MJK Planner Hacks )"
+    },
+    {
+      "id": "art-test-1787146200827",
+      "topic_id": "topic-test-1787146200827",
+      "headline": "The 3-Spread Digital Planner Routine That Cures Setup Fatigue",
+      "excerpt": "Stop turning your daily planning into an unpaid graphic design session. Here is the low-friction 3-spread routine that actually lasts.",
+      "body": "If your digital planning routine involves forty minutes of color-coding, hunting for digital washi tape, and switching between seven hyperlinked index tabs before writing down a single task, you are suffering from **planner overhead**.\n\nDigital planner communities on Reddit and GoodNotes forums frequently echo the same frustration: elaborate 400-page planners look beautiful on social media, but create too much friction for real-world execution.\n\n### The 3-Spread Solution\n\nTo make digital planning an effortless daily reflex, reduce your system to three core views:\n\n1. **The Brain-Dump Scratchpad:** A single unlined page dedicated to rapid thought capture throughout the workday. Do not organize or format—just write.\n2. **The 3-Priority Daily Spread:** A clean vertical column restricted strictly to your top three non-negotiable outcomes for today.\n3. **The Weekly Calibration View:** A Sunday-evening retrospective where you migrate unfinished tasks and clear out clutter.\n\n### Why This Works\n\nWhen you eliminate decorative pressure, opening your tablet becomes a five-second action rather than a chore. Consistency is built on low resistance, not aesthetic perfection.",
+      "seo_title": "The Minimalist 3-Spread Digital Planner Routine That Stops Burnout",
+      "meta_description": "Discover how switching to a minimalist 3-spread digital planning routine eliminates setup fatigue and builds lasting daily consistency.",
+      "category": "Digital Planning Advice",
+      "tags": [
+        "digital planners",
+        "GoodNotes",
+        "minimalism",
+        "iPad planning",
+        "productivity habits"
+      ],
+      "status": "published",
+      "source_ids": [
+        "src-run-1787146100003-3",
+        "src-run-1787146100003-2",
+        "src-run-1787146100003-1"
+      ],
+      "word_count": 318,
+      "reading_time_min": 2,
+      "created_at": "2026-08-19T13:30:00.828Z",
+      "updated_at": "2026-08-19T13:30:00.829Z",
+      "approved_at": "2026-08-19T13:30:00.828Z",
+      "published_at": "2026-08-19T13:30:00.829Z",
+      "published_url": "https://mjkprints.blogspot.com/2026/08/the-3-spread-digital-planner-routine-that-cures-setup-fatigue.html",
+      "publishing_channel": "Blogger (MJK Planner Hacks )"
+    },
+    {
+      "id": "art-1787146119774",
+      "topic_id": "topic-run-1787146100003-3",
+      "headline": "How to Fix: How do you recover in a dated digital planner after missing a week",
+      "excerpt": "Struggling with how do you recover in a dated digital planner after missing a week?? Here is a practical, low-friction approach to stay organized without feeling overwhelmed.",
+      "body": "If you have been asking yourself **\"How do you recover in a dated digital planner after missing a week?\"**, you are experiencing a common hurdle shared by thousands of digital planner users.\n\nOnline discussions across reddit.com reveal that this struggle is rarely about personal discipline. Instead, it stems directly from **how your daily planning environment is configured**.\n\n### The Underlying Obstacle\nSeeing blank pages from missed days triggers guilt and prompts users to abandon the entire year's planner.\n\nWhen a routine requires too many micro-decisions—such as formatting layouts, navigating multiple tabs, or dealing with visual friction—your brain treats the planner as an obstacle rather than an accelerator.\n\n### The Practical Solution\nTo solve this immediately without overhauling your entire workflow:\n\n1. **Adopt a single-view rule.** Keep only one active page open for today's commitments. Do not jump into future weeks until your morning priorities are clear.\n2. **Limit active priorities.** Choose 1 essential project and 2 supporting tasks. Everything else goes into an unstructured notes backlog.\n3. **Lower the aesthetic bar.** Your digital planner is a tool for mental clarity, not an art exhibition. Messy notes that lead to action beat pristine templates that sit untouched.\n\n### Addressing: Should you backfill empty pages or just skip forward to today?\nFocus on the fastest path to clarity. Remove unnecessary widgets and stick to what gives you immediate traction today.\n\n### Key Takeaway\nConsistency in digital planning comes from reducing friction, not increasing effort. Simplify your daily page, and let your planner support your day rather than dictate it.",
+      "seo_title": "How to Fix: How do you recover in a dated digital planner after missing a week | Practical Guide",
+      "meta_description": "Learn how to handle how do you recover in a dated digital planner after missing a week? with a simple, high-yield digital planning approach.",
+      "category": "Digital Planning Advice",
+      "tags": [
+        "digital planner",
+        "productivity",
+        "iPad planning",
+        "routine"
+      ],
+      "status": "published",
+      "source_ids": [
+        "src-run-1787146100003-3"
+      ],
+      "word_count": 273,
+      "reading_time_min": 2,
+      "created_at": "2026-08-19T13:28:39.774Z",
+      "updated_at": "2026-08-19T13:28:57.418Z",
+      "approved_at": "2026-08-19T13:28:51.750Z",
+      "published_at": "2026-08-19T13:28:57.417Z",
+      "published_url": "https://mjkprints.blogspot.com/2026/08/how-to-fix-how-do-you-recover-in-a-dated-digital-planner-after-missing-a-week.html",
+      "publishing_channel": "Blogger (MJK Planner Hacks )"
+    },
+    {
+      "id": "art-test-1786784507378",
+      "topic_id": "topic-test-1786784507378",
+      "headline": "The 3-Spread Digital Planner Routine That Cures Setup Fatigue",
+      "excerpt": "Stop turning your daily planning into an unpaid graphic design session. Here is the low-friction 3-spread routine that actually lasts.",
+      "body": "If your digital planning routine involves forty minutes of color-coding, hunting for digital washi tape, and switching between seven hyperlinked index tabs before writing down a single task, you are suffering from **planner overhead**.\n\nDigital planner communities on Reddit and GoodNotes forums frequently echo the same frustration: elaborate 400-page planners look beautiful on social media, but create too much friction for real-world execution.\n\n### The 3-Spread Solution\n\nTo make digital planning an effortless daily reflex, reduce your system to three core views:\n\n1. **The Brain-Dump Scratchpad:** A single unlined page dedicated to rapid thought capture throughout the workday. Do not organize or format—just write.\n2. **The 3-Priority Daily Spread:** A clean vertical column restricted strictly to your top three non-negotiable outcomes for today.\n3. **The Weekly Calibration View:** A Sunday-evening retrospective where you migrate unfinished tasks and clear out clutter.\n\n### Why This Works\n\nWhen you eliminate decorative pressure, opening your tablet becomes a five-second action rather than a chore. Consistency is built on low resistance, not aesthetic perfection.",
+      "seo_title": "The Minimalist 3-Spread Digital Planner Routine That Stops Burnout",
+      "meta_description": "Discover how switching to a minimalist 3-spread digital planning routine eliminates setup fatigue and builds lasting daily consistency.",
+      "category": "Digital Planning Advice",
+      "tags": [
+        "digital planners",
+        "GoodNotes",
+        "minimalism",
+        "iPad planning",
+        "productivity habits"
+      ],
+      "status": "published",
+      "source_ids": [
+        "src-run-1786779872943-3",
+        "src-run-1786779872943-2",
+        "src-run-1786779872943-1"
+      ],
+      "word_count": 318,
+      "reading_time_min": 2,
+      "created_at": "2026-08-15T09:01:47.379Z",
+      "updated_at": "2026-08-15T09:01:47.381Z",
+      "approved_at": "2026-08-15T09:01:47.379Z",
+      "published_at": "2026-08-15T09:01:47.381Z",
+      "published_url": "https://mjkprints.blogspot.com/2026/08/the-3-spread-digital-planner-routine-that-cures-setup-fatigue.html",
+      "publishing_channel": "Blogger (MJK Planner Hacks )"
+    },
+    {
+      "id": "art-1786783882947",
+      "topic_id": "topic-run-1786779872943-3",
+      "headline": "How to Fix: How do you recover in a dated digital planner after missing a week",
+      "excerpt": "Struggling with how do you recover in a dated digital planner after missing a week?? Here is a practical, low-friction approach to stay organized without feeling overwhelmed.",
+      "body": "If you have been asking yourself **\"How do you recover in a dated digital planner after missing a week?\"**, you are experiencing a common hurdle shared by thousands of digital planner users.\n\nOnline discussions across reddit.com reveal that this struggle is rarely about personal discipline. Instead, it stems directly from **how your daily planning environment is configured**.\n\n### The Underlying Obstacle\nSeeing blank pages from missed days triggers guilt and prompts users to abandon the entire year's planner.\n\nWhen a routine requires too many micro-decisions—such as formatting layouts, navigating multiple tabs, or dealing with visual friction—your brain treats the planner as an obstacle rather than an accelerator.\n\n### The Practical Solution\nTo solve this immediately without overhauling your entire workflow:\n\n1. **Adopt a single-view rule.** Keep only one active page open for today's commitments. Do not jump into future weeks until your morning priorities are clear.\n2. **Limit active priorities.** Choose 1 essential project and 2 supporting tasks. Everything else goes into an unstructured notes backlog.\n3. **Lower the aesthetic bar.** Your digital planner is a tool for mental clarity, not an art exhibition. Messy notes that lead to action beat pristine templates that sit untouched.\n\n### Addressing: Should you backfill empty pages or just skip forward to today?\nFocus on the fastest path to clarity. Remove unnecessary widgets and stick to what gives you immediate traction today.\n\n### Key Takeaway\nConsistency in digital planning comes from reducing friction, not increasing effort. Simplify your daily page, and let your planner support your day rather than dictate it.",
+      "seo_title": "How to Fix: How do you recover in a dated digital planner after missing a week | Practical Guide",
+      "meta_description": "Learn how to handle how do you recover in a dated digital planner after missing a week? with a simple, high-yield digital planning approach.",
+      "category": "Digital Planning Advice",
+      "tags": [
+        "digital planner",
+        "productivity",
+        "iPad planning",
+        "routine"
+      ],
+      "status": "published",
+      "source_ids": [
+        "src-run-1786779872943-3"
+      ],
+      "word_count": 273,
+      "reading_time_min": 2,
+      "created_at": "2026-08-15T08:51:29.818Z",
+      "updated_at": "2026-08-15T08:52:53.924Z",
+      "approved_at": "2026-08-15T08:52:35.877Z",
+      "published_at": "2026-08-15T08:52:53.924Z",
+      "published_url": "https://mjkprints.blogspot.com/2026/08/how-to-fix-how-do-you-recover-in-a-dated-digital-planner-after-missing-a-week.html",
+      "publishing_channel": "Blogger (MJK Planner Hacks )"
+    },
+    {
+      "id": "art-1",
+      "topic_id": "topic-1",
+      "headline": "Why You Keep Abandoning Your Digital Planner (And How to Fix It)",
+      "excerpt": "If you keep buying digital planners only to abandon them by week three, the problem is not your discipline. It is the friction of your system.",
+      "body": "If you have ever downloaded an elaborate 300-page digital planner, meticulously customized your color palette on Monday, and completely stopped opening the file by Thursday, you are not alone. \n\nOnline discussions across planner forums reveal a consistent pattern: digital planner abandonment is rarely caused by a lack of willpower. It is caused by **excessive operational friction**.\n\n### The Setup Trap\nWhen a digital planning routine requires more than five minutes of layout formatting, sticker placement, or hyperlinked tab hopping, your brain begins to categorize the planner as a task in itself rather than a tool for execution. \n\nResearch into productivity habits shows that spending excessive time crafting the appearance of a day directly reduces your energy for initiating actual work. When life gets hectic, the first thing people drop is the high-maintenance system.\n\n### The Fix: Switch to a 3-Minute Daily Reset\nTo make digital planning stick, eliminate the decorative overhead and focus strictly on actionable clarity:\n\n1. **Limit page setup to three minutes max.** If setting up tomorrow's page takes longer than making a cup of coffee, your template is too complex.\n2. **Use a single active view.** Hide or ignore auxiliary habit grids and multi-tier tracking charts until your core daily habit is solid.\n3. **Treat your planner as a working scratchpad.** It does not need to look like a curated social media post. Strikeouts, quick scribbles, and unfinished margins are signs of real work.\n\nBy reducing the friction required to open and log in your planner, consistency becomes the default path of least resistance.",
+      "seo_title": "Why You Keep Abandoning Your Digital Planner (And the 3-Minute Fix)",
+      "meta_description": "Discover why digital planners get abandoned within weeks and how switching to a low-friction 3-minute routine builds lasting consistency.",
+      "category": "Digital Planning Habits",
+      "tags": [
+        "digital planners",
+        "GoodNotes",
+        "habit consistency",
+        "productivity systems"
+      ],
+      "status": "published",
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-4"
+      ],
+      "word_count": 312,
+      "reading_time_min": 2,
+      "created_at": "2026-08-14T10:00:00Z",
+      "updated_at": "2026-08-14T10:15:00Z",
+      "approved_at": "2026-08-14T10:10:00Z",
+      "published_at": "2026-08-14T10:15:00Z",
+      "published_url": "https://myplannerblog.com/posts/why-you-keep-abandoning-digital-planner",
+      "publishing_channel": "Custom Webhook / CMS"
+    },
+    {
+      "id": "art-2",
+      "topic_id": "topic-2",
+      "headline": "How Many Tasks Should You Actually Put on Your Daily Planner?",
+      "excerpt": "Packing your daily planner with 15 tasks practically guarantees burnout. Here is the realistic task threshold that keeps digital planners useful.",
+      "body": "One of the quickest ways to ruin a digital planner is filling every available line on the daily spread. \n\nWhen you write down fifteen distinct to-dos alongside hourly time blocks, any unexpected interruption creates an instant backlog. By evening, carrying over ten unfinished items triggers guilt—and within a week, you stop opening the app altogether.\n\n### The Psychological Cost of Task Rollover\nPlanner discussions highlight a recurring user dilemma: when a daily page looks like an endless wishlist, it ceases to be a strategic guide. Unfinished items don't just disappear; they generate mental weight. The friction of copying them over to the next day creates subtle negative reinforcement.\n\n### The Rule of 1-2-3\nTo keep your digital planner grounded in reality, constrain your daily spread to a maximum of six intentional commitments:\n\n- **1 Big Rock:** The single non-negotiable project or outcome that moves the needle today.\n- **2 Medium Tasks:** Important supporting tasks with clear deliverables (e.g., draft client proposal, review quarterly outline).\n- **3 Minor Maintenance Chores:** Quick administrative errands (e.g., reply to urgent email, file receipts, order groceries).\n\nAnything beyond these six belongs on a separate weekly braindump page—not on your active daily canvas.\n\n### What to Do with Incomplete Tasks\nIf you don't finish a task, pause before automatically carrying it forward. Ask whether it truly needs to happen tomorrow, or if it can be archived to a backlog. Protecting your daily page from clutter is what keeps your digital planning routine sustainable.",
+      "seo_title": "How Many Tasks to Put on Your Daily Planner (The 1-2-3 Rule)",
+      "meta_description": "Learn how many tasks to realistically schedule on your digital planner each day to prevent task rollover guilt and maintain daily momentum.",
+      "category": "Productivity Workflows",
+      "tags": [
+        "task management",
+        "digital planning",
+        "daily routine",
+        "focus"
+      ],
+      "status": "approved",
+      "source_ids": [
+        "src-2",
+        "src-5"
+      ],
+      "word_count": 258,
+      "reading_time_min": 2,
+      "created_at": "2026-08-14T11:00:00Z",
+      "updated_at": "2026-08-15T07:42:47.971Z",
+      "approved_at": "2026-08-15T07:42:47.971Z"
+    },
+    {
+      "id": "art-3",
+      "topic_id": "topic-3",
+      "headline": "Why Your Digital Planner Feels Overwhelming (And the 2-Minute Reset)",
+      "excerpt": "When life gets busy, opening a multi-tab digital planner can feel paralyzing. Here is how to shrink your system when your schedule gets crazy.",
+      "body": "When your calendar gets packed and your stress levels spike, opening a massive digital planner with twenty hyperlinked sections can feel like opening a second job.\n\nIronically, people often abandon their digital planners at the exact moment they need organization the most. Why? Because complex templates require mental bandwidth that you simply do not have during a crunch period.\n\n### Signs Your Planner Is Too Heavy\n- You feel anxious just looking at your empty habit trackers.\n- You spend five minutes navigating tabs before writing down a single note.\n- You avoid the app because you missed three days in a row and feel behind.\n\n### The 2-Minute Single-Page Reset\nWhen life accelerates, don't abandon planning—downscale the format.\n\nOpen a completely blank page in your note-taking app or create a dedicated \"Quick Action\" scratchpad. Write only three things:\n\n1. **The single task that must be done before noon.**\n2. **The single task that must be done before 5 PM.**\n3. **One brief boundary for your sanity (e.g., stop working at 6 PM).**\n\nForget about habit rings, water trackers, and aesthetic stickers for the next 48 hours. Once your workload stabilizes, you can return to full spreads. But during high-demand weeks, your digital planner should be a life raft, not an obstacle course.",
+      "seo_title": "Why Digital Planners Feel Overwhelming During Busy Weeks",
+      "meta_description": "Feeling overwhelmed by your digital planner? Use the 2-minute single-page reset to stay organized without template friction.",
+      "category": "Planner Troubleshooting",
+      "tags": [
+        "planner overwhelm",
+        "iPad planning",
+        "GoodNotes",
+        "minimalism"
+      ],
+      "status": "draft",
+      "source_ids": [
+        "src-4",
+        "src-5"
+      ],
+      "word_count": 305,
+      "reading_time_min": 2,
+      "created_at": "2026-08-14T11:30:00Z",
+      "updated_at": "2026-08-14T11:30:00Z"
+    }
+  ],
+  "settings": {
+    "research_keywords": [
+      "digital planner",
+      "digital planning",
+      "iPad planner",
+      "GoodNotes planner",
+      "Notability planner",
+      "PDF planner",
+      "digital journal",
+      "digital habit tracking",
+      "digital goal planning",
+      "daily planning routine",
+      "planner overwhelm",
+      "digital planner consistency"
+    ],
+    "automatic_daily_trigger": true,
+    "search_frequency": "daily",
+    "article_settings": {
+      "min_words": 250,
+      "max_words": 500,
+      "preferred_range": "250–500 words",
+      "tone": "human, clear, helpful, conversational, practical, simple, confident",
+      "max_questions": 2
+    },
+    "publishing_settings": {
+      "integration_type": "blogger",
+      "platform_name": "Blogger (MJK Planner Hacks )",
+      "api_endpoint": "https://www.googleapis.com/blogger/v3",
+      "api_key": "AIzaSyAlJnqIVHM0Gb8-Vr31pBCjepU_8FjMXRw",
+      "is_connected": true,
+      "auto_open_url": true,
+      "blogger": {
+        "api_key": "AIzaSyAlJnqIVHM0Gb8-Vr31pBCjepU_8FjMXRw",
+        "blog_url": "https://mjkprints.blogspot.com/",
+        "blog_id": "3059669200982935387",
+        "blog_name": "MJK Planner Hacks ",
+        "publish_as_draft": true,
+        "include_citations": false,
+        "is_connected": true,
+        "posts_count": 84,
+        "last_verified_at": "2026-08-19T14:23:34.960Z"
+      }
+    }
+  }
+}

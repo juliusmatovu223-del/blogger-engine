@@ -1,0 +1,6 @@
+{
+  "name": "Planner Pulse",
+  "description": "A lightweight research and content discovery tool that finds fresh digital planner questions and turns them into high-value, source-grounded blog posts with an editorial approval workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
